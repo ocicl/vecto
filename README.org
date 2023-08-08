@@ -1,0 +1,9 @@
+* vecto
+
+Draw vector graphics into PNG files
+
+|---------+---------------------------------------|
+| source  | git:https://github.com/xach/vecto.git |
+| commit  | 9010601                               |
+| systems | vecto                                 |
+|---------+---------------------------------------|
